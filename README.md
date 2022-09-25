@@ -6,4 +6,5 @@ Poniżej znajdują się przykłady obrazów z nałożonym filtrem:
 ![](https://github.com/Michal-Szczygiel/crt_filter/blob/main/dwight.png)
 Dwight K. Schrute (Acting) Manager - "The Office"
 
-![](https://github.com/Michal-Szczygiel/crt_filter/blob/main/spongebob.png)
+![](https://github.com/Michal-Szczygiel/crt_filter/blob/main/mario.png)
+Klatka z gry Super Mario Bros.
