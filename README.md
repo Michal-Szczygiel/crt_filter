@@ -4,5 +4,6 @@ Aby dowiedzieć się wiecej na temat użycia programu wpisz: **./crt -h** (wyśw
 Poniżej znajdują się przykłady obrazów z nałożonym filtrem:
 
 ![](https://github.com/Michal-Szczygiel/crt_filter/blob/main/dwight.png)
+Dwight K. Schrute (Acting) Manager - "The Office"
 
 ![](https://github.com/Michal-Szczygiel/crt_filter/blob/main/spongebob.png)
